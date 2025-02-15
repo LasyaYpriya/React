@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/React/moviebux/static/css/main.07f7f18d.css",
+    "main.js": "/React/moviebux/static/js/main.c9c20d4b.js",
+    "static/js/488.2d2b5783.chunk.js": "/React/moviebux/static/js/488.2d2b5783.chunk.js",
+    "static/media/logo.svg": "/React/moviebux/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/React/moviebux/index.html",
+    "main.07f7f18d.css.map": "/React/moviebux/static/css/main.07f7f18d.css.map",
+    "main.c9c20d4b.js.map": "/React/moviebux/static/js/main.c9c20d4b.js.map",
+    "488.2d2b5783.chunk.js.map": "/React/moviebux/static/js/488.2d2b5783.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07f7f18d.css",
+    "static/js/main.c9c20d4b.js"
+  ]
+}
